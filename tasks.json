@@ -1,11 +1,11 @@
 [
     {
         "task": "Module 01",
-        "done": false
+        "done": true
     },
     {
         "task": "Module 02",
-        "done": false
+        "done": true
     },
     {
         "task": "Module 03",
